@@ -24,7 +24,7 @@ Next:
 This is a command line utility so I don't have any link for running application
 But this can be tested on any system having python 2.7 installed
 ########################################
-Changes or modification I would make if I time:
+Changes or modification I would make if I am given more time:
 	1. I will make a working web app for the same	
 	2. I have used urllib2 for scrapping the html reponse page and then used regular expressions to extract the desired data But I would like to try using APIs provided bu github if possible to get the desired output.
 	
